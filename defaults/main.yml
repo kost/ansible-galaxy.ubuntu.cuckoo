@@ -1,0 +1,9 @@
+---
+
+cuckoo_deploy_to: /opt/cuckoo
+cuckoo_repo: git@github.com:cuckoobox/cuckoo.git
+cuckoo_version: master
+cuckoo_user: cuckoo
+cuckoo_group: cuckoo
+
+cuckoo_pull_from_git: yes
